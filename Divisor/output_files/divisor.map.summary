@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Dec 08 15:22:26 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : divisor
+Top-level Entity Name : divisor
+Family : Cyclone II
+Total logic elements : 33
+    Total combinational functions : 21
+    Dedicated logic registers : 26
+Total registers : 26
+Total pins : 29
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
