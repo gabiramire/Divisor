@@ -1,0 +1,348 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Avell\Documents\Sistemas Digitais\Divisor\Divisor\simulation\modelsim
+Ebc
+Z1 w1607447905
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Avell\Documents\Sistemas Digitais\Divisor\Divisor\simulation\modelsim
+Z5 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bc.vhd
+Z6 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bc.vhd
+l0
+L4
+V@MjAg^d>9NlojQd_`BAj83
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1607551053.923000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bc.vhd|
+Z10 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bc.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 TBOaNYS:`AEh3<GUI4Z`D1
+!i10b 1
+Aestrutura
+R2
+R3
+DEx4 work 2 bc 0 22 @MjAg^d>9NlojQd_`BAj83
+l20
+L17
+VLf[z9^<cnb[XeGDW:lf>G3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 o[2j1=Eh0zohYl0RI[;UW3
+!i10b 1
+Ebo
+Z13 w1607549973
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z16 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bo.vhd
+Z17 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bo.vhd
+l0
+L5
+V7@W^iTmBl2RWgZOFfBEfm0
+R7
+31
+Z18 !s108 1607551054.024000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bo.vhd|
+Z20 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/bo.vhd|
+R11
+R12
+!s100 R2ONY;zMnc3SCRCKH0aNN0
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 2 bo 0 22 7@W^iTmBl2RWgZOFfBEfm0
+l57
+L21
+VV3Cai=M=Whaoa3A?BF=hB0
+R7
+31
+R18
+R19
+R20
+R11
+R12
+!s100 n9O_dD8m_gVY4i6@E00?=3
+!i10b 1
+Edivisor
+Z21 w1607550469
+R14
+R15
+R2
+R3
+R4
+Z22 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/divisor.vhd
+Z23 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/divisor.vhd
+l0
+L5
+ViQCRlOm`C>?UWdD3Fe;5A2
+R7
+31
+Z24 !s108 1607551053.808000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/divisor.vhd|
+Z26 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/divisor.vhd|
+R11
+R12
+!s100 B1M9MDV>;NHj7z7hcW44n2
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 7 divisor 0 22 iQCRlOm`C>?UWdD3Fe;5A2
+l40
+L15
+VV]5U>6IE5dc?3AXkeGdc`0
+R7
+31
+R24
+R25
+R26
+R11
+R12
+!s100 5ZGnO:zhVT0TYmn3R>NBW3
+!i10b 1
+Eigualazero
+Z27 w1607550143
+R14
+R15
+R2
+R3
+R4
+Z28 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/igualazero.vhd
+Z29 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/igualazero.vhd
+l0
+L5
+VG^MiXaN9=]3LYHnIA8A472
+R7
+31
+Z30 !s108 1607551054.132000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/igualazero.vhd|
+Z32 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/igualazero.vhd|
+R11
+R12
+!s100 coe<IU6Z^U^=ihYYO5ZKO3
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 10 igualazero 0 22 G^MiXaN9=]3LYHnIA8A472
+l13
+L12
+ViB]<;<VSIBZ4bTaONmjHA0
+R7
+31
+R30
+R31
+R32
+R11
+R12
+!s100 eL:WeSP>kRPd5BBb0CO:B1
+!i10b 1
+Emaiorigual
+Z33 w1607550212
+R14
+R15
+R2
+R3
+R4
+Z34 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/maiorigual.vhd
+Z35 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/maiorigual.vhd
+l0
+L5
+VC=Q_3VZaFbOn3j<gZU;La0
+!s100 cUDA[QKI8:?5kT::<Mk102
+R7
+31
+!i10b 1
+Z36 !s108 1607551054.576000
+Z37 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/maiorigual.vhd|
+Z38 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/maiorigual.vhd|
+R11
+R12
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 10 maiorigual 0 22 C=Q_3VZaFbOn3j<gZU;La0
+l13
+L12
+V`;]Y2<c`BJie]EHz8LS0D0
+!s100 a`JYk>E<7_oa@M4Y5cF8@1
+R7
+31
+!i10b 1
+R36
+R37
+R38
+R11
+R12
+Emux2para1
+Z39 w1607549972
+R2
+R3
+R4
+Z40 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/mux2para1.vhd
+Z41 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/mux2para1.vhd
+l0
+L4
+VoU?3bg5i5D6[XAzJ><QDh2
+R7
+31
+Z42 !s108 1607551054.242000
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/mux2para1.vhd|
+Z44 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/mux2para1.vhd|
+R11
+R12
+!s100 oX^aUV4oLbo[k9=R]9E0K0
+!i10b 1
+Acomportamento
+R2
+R3
+DEx4 work 9 mux2para1 0 22 oU?3bg5i5D6[XAzJ><QDh2
+l14
+L13
+VhhOVOlgEYHo;GLlaBzZ[h2
+R7
+31
+R42
+R43
+R44
+R11
+R12
+!s100 <]hgz<=5eB@8LfK>o@=BT3
+!i10b 1
+Eregistrador
+Z45 w1607550211
+R14
+R15
+R2
+R3
+R4
+Z46 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/registrador.vhd
+Z47 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/registrador.vhd
+l0
+L5
+VANXL;4cHMfA107bIm67C<0
+R7
+31
+Z48 !s108 1607551054.351000
+Z49 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/registrador.vhd|
+Z50 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/registrador.vhd|
+R11
+R12
+!s100 o8M8lR0b55lAojBoR3fib1
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 11 registrador 0 22 ANXL;4cHMfA107bIm67C<0
+l14
+L13
+VaMX4FdYM^XZ:Hm2bX_G4e1
+R7
+31
+R48
+R49
+R50
+R11
+R12
+!s100 QD@TEeAJ@dB1ZfDUGDEL32
+!i10b 1
+Esomador
+R45
+R14
+R15
+R2
+R3
+R4
+Z51 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/somador.vhd
+Z52 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/somador.vhd
+l0
+L5
+V=LhJH:ieKKNSc:W<l15m70
+R7
+31
+Z53 !s108 1607551054.461000
+Z54 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/somador.vhd|
+Z55 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/somador.vhd|
+R11
+R12
+!s100 WcYL0d7BjSPS[f>L1[g;M0
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 7 somador 0 22 =LhJH:ieKKNSc:W<l15m70
+l13
+L12
+VMU`6NI9O7;2`MzNzeRTbV2
+R7
+31
+R53
+R54
+R55
+R11
+R12
+!s100 RE=<21KBQB;g1C:1bYiZP1
+!i10b 1
+Esubtrator
+Z56 w1607550116
+R14
+R15
+R2
+R3
+R4
+Z57 8C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/subtrator.vhd
+Z58 FC:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/subtrator.vhd
+l0
+L5
+VP=anUZZe]Ild@HWC]7KMQ2
+R7
+31
+Z59 !s108 1607551053.697000
+Z60 !s90 -reportprogress|300|-93|-work|work|C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/subtrator.vhd|
+Z61 !s107 C:/Users/Avell/Documents/Sistemas Digitais/Divisor/Divisor/subtrator.vhd|
+R11
+R12
+!s100 Y;<75^?zDeDP_72UUhlN=2
+!i10b 1
+Aestrutura
+R14
+R15
+R2
+R3
+DEx4 work 9 subtrator 0 22 P=anUZZe]Ild@HWC]7KMQ2
+l13
+L12
+V6C`8_`IC@@h:L1z9==A1[2
+R7
+31
+R59
+R60
+R61
+R11
+R12
+!s100 F9?SBR@T^:[hVAgYT4Ifk0
+!i10b 1

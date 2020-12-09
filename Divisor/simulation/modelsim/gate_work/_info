@@ -2,16 +2,16 @@ m255
 K3
 13
 cModel Technology
-Z0 dC:\Users\luisa\Documents\Materias\UFSC\20201\Sistemas digitais - INE5406 - 05235A\LAB Sist digitais\Projects\Divisor\Divisor - Grupo 2\simulation\modelsim
+Z0 dC:\Users\Avell\Documents\Sistemas Digitais\Divisor\Divisor\simulation\modelsim
 Edivisor
-Z1 w1607451770
+Z1 w1607550879
 Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
 Z3 DPx9 cycloneii 19 cycloneii_atom_pack 0 22 zUjlM<IUJVWSWg:L2<>ic3
 Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
 Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
 Z7 DPx9 cycloneii 20 cycloneii_components 0 22 h@gSJ;Al32oYg[7^PbnAR0
-Z8 dC:\Users\luisa\Documents\Materias\UFSC\20201\Sistemas digitais - INE5406 - 05235A\LAB Sist digitais\Projects\Divisor\Divisor - Grupo 2\simulation\modelsim
+Z8 dC:\Users\Avell\Documents\Sistemas Digitais\Divisor\Divisor\simulation\modelsim
 Z9 8divisor.vho
 Z10 Fdivisor.vho
 l0
@@ -21,7 +21,7 @@ VNK_B:8[=`:Qf4XIS<BmQ73
 Z11 OV;C;10.1d;51
 31
 !i10b 1
-Z12 !s108 1607451815.004000
+Z12 !s108 1607550896.520000
 Z13 !s90 -reportprogress|300|-93|-work|work|divisor.vho|
 Z14 !s107 divisor.vho|
 Z15 o-93 -work work -O0
@@ -36,8 +36,8 @@ R7
 DEx4 work 7 divisor 0 22 NK_B:8[=`:Qf4XIS<BmQ73
 l160
 L82
-Vn@FZ]Mj1n^l8TBf15n90b1
-!s100 0XT6ljO4H]J]nFZkgET5z1
+VTVGS::GgQNg;zDhSbm8?b2
+!s100 1jLCPdzT@IfB[Wm4gR?5V2
 R11
 31
 !i10b 1

@@ -16,7 +16,7 @@
 -- PROGRAM "Quartus II 64-Bit"
 -- VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition"
 
--- DATE "12/08/2020 15:22:50"
+-- DATE "12/09/2020 18:57:21"
 
 -- 
 -- Device: Altera EP2C35F672C6 Package FBGA672
@@ -149,13 +149,13 @@ SIGNAL \datapath|regresto|q[0]~feeder_combout\ : std_logic;
 SIGNAL \datapath|regresto|q[1]~feeder_combout\ : std_logic;
 SIGNAL \datapath|regresto|q[2]~feeder_combout\ : std_logic;
 SIGNAL \datapath|regresto|q[3]~feeder_combout\ : std_logic;
-SIGNAL \datapath|regB|q\ : std_logic_vector(3 DOWNTO 0);
-SIGNAL \datapath|regresto|q\ : std_logic_vector(3 DOWNTO 0);
-SIGNAL \datapath|regcont|q\ : std_logic_vector(3 DOWNTO 0);
-SIGNAL \datapath|regquoc|q\ : std_logic_vector(3 DOWNTO 0);
 SIGNAL \datapath|regA|q\ : std_logic_vector(3 DOWNTO 0);
 SIGNAL \entB~combout\ : std_logic_vector(3 DOWNTO 0);
 SIGNAL \entA~combout\ : std_logic_vector(3 DOWNTO 0);
+SIGNAL \datapath|regquoc|q\ : std_logic_vector(3 DOWNTO 0);
+SIGNAL \datapath|regB|q\ : std_logic_vector(3 DOWNTO 0);
+SIGNAL \datapath|regresto|q\ : std_logic_vector(3 DOWNTO 0);
+SIGNAL \datapath|regcont|q\ : std_logic_vector(3 DOWNTO 0);
 
 BEGIN
 

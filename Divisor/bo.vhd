@@ -1,14 +1,15 @@
-
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.std_logic_unsigned.all;
 
 ENTITY bo IS
+GENERIC (N : INTEGER := 4);
+
 PORT (clk : IN STD_LOGIC;
       m1, cA, cB, cquoc: IN STD_LOGIC;
-      entA, entB : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+      entA, entB : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
       AmaiorigualB, Bz : OUT STD_LOGIC;
-      quoc, resto, conteudoA, conteudoB : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+      quoc, resto, conteudoA, conteudoB : OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0));
 END bo;
 
 -- Sinais de comando
@@ -21,37 +22,37 @@ ARCHITECTURE estrutura OF bo IS
 	
 	COMPONENT registrador IS
 	PORT (clk, carga : IN STD_LOGIC;
-		  d : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
-		  q : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+		  d : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
+		  q : OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0));
 	END COMPONENT;
 	
 	COMPONENT mux2para1 IS
-	PORT ( a, b : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+	PORT ( a, b : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
            sel: IN STD_LOGIC;
-           y : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+           y : OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0));
 	END COMPONENT;
 	
 	COMPONENT somador IS
-	PORT (a, b : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
-		  s : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+	PORT (a, b : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
+		  s : OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0));
 	END COMPONENT;
 	
 	COMPONENT subtrator IS
-	PORT (a, b : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
-		  s : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+	PORT (a, b : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
+		  s : OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0));
 	END COMPONENT;
 	
    COMPONENT igualazero IS
-	PORT (a : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+	PORT (a : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
          igual : OUT STD_LOGIC);
 	END COMPONENT;
 	
 	COMPONENT maiorigual IS
-	PORT (a, b : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+	PORT (a, b : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
         maior : OUT STD_LOGIC);
 	END COMPONENT;
 		
-	SIGNAL saimux1, saimux2, sairesto, sairegA, sairegB, saisoma, saisub, saicont, saiquoc: STD_LOGIC_VECTOR (3 DOWNTO 0);
+	SIGNAL saimux1, saimux2, sairesto, sairegA, sairegB, saisoma, saisub, saicont, saiquoc: STD_LOGIC_VECTOR (N-1 DOWNTO 0);
 
 BEGIN
 	mux1: mux2para1 PORT MAP (saisub, entA, m1, saimux1);
@@ -73,3 +74,4 @@ BEGIN
 	conteudoB <= sairegB;
 
 END estrutura;
+
