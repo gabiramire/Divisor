@@ -1,4 +1,4 @@
-# INE5406 - Sistemas Digitais: Trabalho 2
+# INE5406 - Sistemas Digitais: Trabalho 2 - 10/12/2020
 ## Grupo 2 : Divisor
   >Gabriela Ramire Bueno Masso (18204969)
   
